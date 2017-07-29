@@ -1,0 +1,25 @@
+{
+  "name": "atomwares/atom-project",
+  "type": "project",
+  "description": "Project skeleton to get started with Atom Framework",
+  "keywords": [
+    "atom",
+    "framework",
+    "atomframework",
+    "rest",
+    "php",
+    "project",
+    "skeleton"
+  ],
+  "license": "MIT",
+  "authors": [{
+    "name": "Safarov Alisher",
+    "email": "alisher.safarov@outlook.com",
+    "homepage": "http://atomframework.net"
+  }],
+  "require": {
+    "atomwares/atom": "dev-master",
+    "atomwares/atom-view": "dev-master"
+  },
+  "minimum-stability": "dev"
+}
