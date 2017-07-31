@@ -20,5 +20,6 @@
   "require": {
     "atomwares/atom": "^1.0-beta",
     "atomwares/atom-view": "^1.0-beta"
-  }
+  },
+  "minimum-stability": "beta"
 }
