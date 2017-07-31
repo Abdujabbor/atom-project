@@ -18,8 +18,7 @@
     "homepage": "http://atomframework.net"
   }],
   "require": {
-    "atomwares/atom": "dev-master",
-    "atomwares/atom-view": "dev-master"
-  },
-  "minimum-stability": "dev"
+    "atomwares/atom": "^1.0-beta",
+    "atomwares/atom-view": "^1.0-beta"
+  }
 }
